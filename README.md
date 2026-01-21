@@ -1,6 +1,6 @@
-<h2 align="center"> 
+<h1 align="center"> 
   I'm Yoginder Kumar
-</h2>
+</h1>
 
 <h2 align="center">
   Data Analyst Intern | Aspiring Data Scientist
