@@ -1,4 +1,6 @@
-<p  I'm Yoginder Kumar </p>
+<h2 align="center"> 
+  I'm Yoginder Kumar
+</h2>
 
 <h2 align="center">
   Data Analyst Intern | Aspiring Data Scientist
