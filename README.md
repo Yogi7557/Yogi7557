@@ -4,10 +4,11 @@
 
 <h2 align="center">
   Data Analyst Intern | Aspiring Data Scientist
+  Computer Science and Engineering graduate | RGPV University, Bhopal
 </h2>
 
 
-#### Computer Science and Engineering graduate | RGPV University, Bhopal
+Computer Science and Engineering graduate | RGPV University, Bhopal
 
 ## 💫 About Me:
 * 🔭 I’m currently working on Building data analysis projects using SQL, Python, Power BI & Advance Excel (Sales, E-commerce & Business datasets)<br>
