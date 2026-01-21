@@ -1,4 +1,5 @@
-#                                                                                       `I'm Yoginder Kumar`
+# I'm Yoginder Kumar
+  ### Computer Science and Engineering graduate | RGPV University, Bhopal
 
 
 ## 💫 About Me:
