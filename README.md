@@ -1,3 +1,6 @@
+# I'm Yoginder Kumar
+
+
 # 💫 About Me:
 * 🔭 I’m currently working on Building data analysis projects using SQL, Python, Power BI & Advance Excel (Sales, E-commerce & Business datasets)<br>
 * 👯 I’m looking to collaborate on Data Analytics projects, dashboards, business case studies, and open-source data projects<br>
