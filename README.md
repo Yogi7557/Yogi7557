@@ -5,7 +5,7 @@
   Data Analyst Intern | Aspiring Data Scientist
 </h2>
 <h3 align="center">
-Computer Science and Engineering graduate | RGPV University, Bhopal
+Graduate in Computer Science and Engineering from RGPV University, Bhopal
 </h3>
 
 ## 💫 About Me:
