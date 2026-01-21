@@ -1,5 +1,6 @@
-# I'm Yoginder Kumar (Computer Science and Engineering graduate | RGPV University, Bhopal)
+# I'm Yoginder Kumar
 
+#### Computer Science and Engineering graduate | RGPV University, Bhopal
 
 ## 💫 About Me:
 * 🔭 I’m currently working on Building data analysis projects using SQL, Python, Power BI & Advance Excel (Sales, E-commerce & Business datasets)<br>
