@@ -1,5 +1,10 @@
 # 💫 About Me:
-* 🔭 I’m currently working on Building data analysis projects using SQL, Python, Power BI & Advance Excel (Sales, E-commerce & Business datasets)<br> * 👯 I’m looking to collaborate on Data Analytics projects, dashboards, business case studies, and open-source data projects<br> * 🤝 I’m looking for help with Improving advanced SQL queries, real-world business problem solving, and data storytelling<br> * 🌱 I’m currently learning Advanced SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Statistics & Machine Learning with Gen Ai<br>💬 Ask me about SQL, Excel, Power BI dashboards, Data Cleaning, Exploratory Data Analysis (EDA)<br> * ⚡ Fun fact I enjoy turning raw messy data into meaningful business insights 📊
+* 🔭 I’m currently working on Building data analysis projects using SQL, Python, Power BI & Advance Excel (Sales, E-commerce & Business datasets)<br>
+* 👯 I’m looking to collaborate on Data Analytics projects, dashboards, business case studies, and open-source data projects<br>
+* 🤝 I’m looking for help with Improving advanced SQL queries, real-world business problem solving, and data storytelling<br>
+* 🌱 I’m currently learning Advanced SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Statistics & Machine Learning with Gen Ai<br>
+* 💬 Ask me about SQL, Excel, Power BI dashboards, Data Cleaning, Exploratory Data Analysis (EDA)<br>
+* ⚡ Fun fact I enjoy turning raw messy data into meaningful business insights 📊
 
 
 ## 🌐 Socials:
