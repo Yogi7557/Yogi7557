@@ -1,8 +1,9 @@
 <p  I'm Yoginder Kumar </p>
 
-<p align="center">
+<h2 align="center">
   Data Analyst Intern | Aspiring Data Scientist
-</p>
+</h2>
+
 
 #### Computer Science and Engineering graduate | RGPV University, Bhopal
 
