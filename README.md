@@ -4,7 +4,6 @@
 
 <h2 align="center">
   Data Analyst Intern | Aspiring Data Scientist
-  Computer Science and Engineering graduate | RGPV University, Bhopal
 </h2>
 
 
